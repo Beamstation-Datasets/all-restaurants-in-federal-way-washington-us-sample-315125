@@ -1,0 +1,12 @@
+{
+  "export_job_id": "d03f8e88-1394-4e43-a292-bddc3d813beb",
+  "id_short": 315125,
+  "published_at": "2026-04-11T19:23:59Z",
+  "repo_name": "all-restaurants-in-federal-way-washington-us-sample-315125",
+  "sample_asset_name": "beamstation_315125_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/315125/beamstation_315125_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_records": 26,
+  "sample_sha256": "de0b114c462d5baf47e509515dca7e81c31636d3a40ffd7063ef52f8f9e7e150",
+  "sample_size_bytes": 112973,
+  "total_records": 264
+}
