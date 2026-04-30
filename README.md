@@ -1,6 +1,6 @@
 # All Restaurants in Federal Way, Washington, US
 
-> Free BeamStation sample export with 17 rows and masked direct-contact fields.
+> Free BeamStation sample export with 26 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `315125` |
 | Location | Federal Way |
 | Category | Restaurants |
-| Full dataset size | 178 records |
-| Free sample size | 17 records (9.55%) |
-| Last export | 2026-04-23T13:38:41.899331+00:00 |
+| Full dataset size | 268 records |
+| Free sample size | 26 records (9.7%) |
+| Last export | 2026-04-30T14:13:08.494138+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-federal-way-washington-us-sample-315125/releases/download/sample-latest/beamstation_315125_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
